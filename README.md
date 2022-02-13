@@ -3,8 +3,8 @@
 ```js
 const SebasVillaLo = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Ruby, Python],
-  tools: [Node, Docker, Flutter]
+  code: [Javascript, HTML, CSS, Python],
+  tools: [Node, Docker]
 }
 ```
 <!--
