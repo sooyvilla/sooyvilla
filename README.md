@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Sebastian 👋💻
 
+```js
+const SebasVillaLo = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Ruby, Python],
+  tools: [Node, Docker, Flutter]
+}
+```
 <!--
 **SebasVillaLo/SebasVillaLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
