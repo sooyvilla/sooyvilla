@@ -3,8 +3,8 @@
 ```js
 const SebasVillaLo = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, C, Bash],
-  tools: [Node, Docker]
+  code: [Javascript, Flutter, Python, C, Bash, NodeJS],
+  tools: [Flask, MySQL, MongoDB]
 }
 ```
 ## You can find me: 
