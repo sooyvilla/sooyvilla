@@ -3,7 +3,7 @@
 ```js
 const SebasVillaLo = {
   pronouns: "He" | "Him",
-  code: [Javascript, Dart, Python, C, Bash, NodeJS],
+  code: [Javascript, Dart, Python, C, Bash, NodeJS, HTML, CSS],
   tools: [Flask, MySQL, MongoDB, Flutter]
 }
 ```
