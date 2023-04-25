@@ -1,10 +1,10 @@
 ### Hi, I'm Sebastian 👋💻
 
-```js
-const SebasVillaLo = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Dart, Python, C, Bash, NodeJS, HTML, CSS],
-  tools: [Flask, MySQL, MongoDB, FireBase, Flutter]
+```dart
+final Map<String, dynamic> SebasVillaLo = {
+  'pronouns': "He" | "Him",
+  'code': [Javascript, Dart, Python, C, Bash, NodeJS, HTML, CSS],
+  'tools': [Flask, MySQL, MongoDB, FireBase, Flutter]
 }
 ```
 ## You can find me: 
