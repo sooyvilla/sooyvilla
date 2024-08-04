@@ -1,7 +1,7 @@
 ### Hi, I'm Sebastian 👋💻
 
 ```dart
-final Map<String, dynamic> SebasVillaLo = {
+final Map<String, dynamic> sooyvilla = {
   'pronouns': "He" | "Him",
   'code': [Javascript, Dart, Python, C, Bash, NodeJS, HTML, CSS],
   'tools': [Flask, MySQL, MongoDB, FireBase, Flutter]
@@ -14,13 +14,13 @@ final Map<String, dynamic> SebasVillaLo = {
 
 ## My Stats
 
- [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasVillaLo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyvilla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasVIllaLo&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyvilla&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**SebasVillaLo/SebasVillaLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sooyvilla/sooyvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
